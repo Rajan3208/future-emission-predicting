@@ -4,4 +4,4 @@ numpy
 joblib
 requests
 plotly
-sklearn
+scikit-learn
