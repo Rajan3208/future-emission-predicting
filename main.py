@@ -186,7 +186,7 @@ st.map(df)
 # Information about the project
 st.subheader('About this project')
 st.write("""
-This project was developed for the 2024 NASA Space Apps Challenge. It uses machine learning models
+This project was developed for the MSME Idea Hackathon 4.0. It uses machine learning models
 trained on synthetic data to predict CO2, CO, and CH4 concentrations at different locations for the next 60 days.
 When available, the predictions are compared with real-time air quality data and forecasts from OpenWeatherMap.
 """)
